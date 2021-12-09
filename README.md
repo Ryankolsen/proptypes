@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# PropType Simple Example
+
+This code is meant as an example of how to use proptypes with differnt component types in React. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
